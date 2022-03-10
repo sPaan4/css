@@ -1,0 +1,141 @@
+
+a {
+   color: black;
+   text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color:rgba(94, 163, 124, 0.979)
+}
+
+
+
+#kapibara {width: 230px;
+border-radius: 25px;
+box-shadow: 4px 4px 14px rgba(0, 0, 0, 0 25);
+margin-bottom: 20px;
+margin-top: 20px;
+}
+
+.td p {
+    
+    margin: 0;
+    font-style: italic;
+    font-weight: normal;
+     
+}
+.c {
+    max-width: 80%;
+    margin: auto;
+    
+}
+
+.idk {
+    display: flex;
+    
+}
+@media (max-width: 700px) {
+    .idk {
+        text-align: center;
+        display: block;
+    }
+}
+
+.ccc {
+    margin-left: 40px;
+}
+.ccc h4{
+margin-bottom: 10px;
+}
+
+.bg-yellow {
+    background: #fff6c3;
+}
+.bg-green {
+    background: #e5ffe7;
+}
+.bg-red {
+    background: #ffe5e5;
+}
+
+.bg-blue {
+    background: #e2ecee;
+}
+
+.card {
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+}
+.i {
+   margin-bottom: 20px; 
+   max-width: 100%; 
+ }
+
+
+.c1 {
+    
+      margin-bottom: 20px;
+      max-width: 100%;
+      
+  }
+.card h2 {
+      margin-bottom: 5px;
+      margin-top: 5px;
+  }
+.card h1 {
+margin-bottom: 5px;
+
+  }
+.l {
+margin-bottom: 5px;
+padding-left: 20px;
+list-style: circle;
+  }
+ 
+.t1 {
+    width: 100%; 
+}
+.t1 td {
+padding-bottom: 5px;
+}
+.t1 td {
+    text-align: left;
+    
+}
+.t1 th {
+    text-align: left;
+}
+.contact h2 {
+text-align: center;
+} 
+.cc label {
+display: block;
+font-size: 16px;
+}
+
+.cc input, textarea {
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid #CCC;
+    color: black;
+    padding: 15px 0 10px;
+    outline: none;
+    font-family: inherit;
+}
+.btn {
+    background: rgb(94, 152, 190);
+    color: rgb(226, 226, 226);
+    padding: 15px 20px;
+    border: none;
+    cursor:  pointer;
+}
+.btn:hover {
+    opacity: 0.9;
+}
